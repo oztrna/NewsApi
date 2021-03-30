@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">NewsApi</string>
+	<string name="text_news">News</string>
+	<string name="text_share">Share</string>
+	<string name="text_search">Search</string>
+	<string name="edit_text_search">Search…</string>
+	<string name="text_favorites">Favorites</string>
+	<string name="text_prev_page">Prev Page</string>
+	<string name="text_next_page">Next Page</string>
+	<string name="text_news_source">News Source</string>
+</resources>
